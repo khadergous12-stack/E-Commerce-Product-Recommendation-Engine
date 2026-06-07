@@ -212,31 +212,6 @@ After studying this project you will be able to:
 
 ---
 
-## 💼 Interview Q&A (Top 10)
-
-**Q1: Explain your project.**  
-This is an end-to-end E-Commerce Product Recommendation Engine. It uses HashMaps for O(1) data storage, Priority Queues for top-N extraction, Sorting for category rankings, and a composite similarity function combining Jaccard tag overlap, price proximity, and session co-occurrence to generate personalised, category-wise, and cross-sell recommendations.
-
-**Q2: Why did you use a HashMap?**  
-HashMaps give O(1) average-case lookup. I use `product_map[item_id]` and `user_map[user_id]` to retrieve objects instantly without iterating through lists.
-
-**Q3: How does the similarity score work?**  
-It's a weighted blend of five components: tag Jaccard, category match, normalised price gap, rating, and co-occurrence count. Each component is O(1) or O(|tags|).
-
-**Q4: Why `heapq.nlargest` instead of `sorted()`?**  
-`heapq.nlargest(K, list)` runs in O(N log K). `sorted()` runs in O(N log N). For N=100 products and K=10, this is 2× faster.
-
-**Q5: What is the cold-start problem and how did you solve it?**  
-New users have no history. I fall back to popularity ranking — items weighted by purchases (×5), cart adds (×3), and views (×1) — giving new users relevant results without personal data.
-
----
-
-## 🏷️ GitHub Tags
-
-`python` `dsa` `recommendation-system` `machine-learning` `ecommerce` `data-structures` `hashmap` `priority-queue` `portfolio-project` `placement-prep`
-
----
-
 ## 👨‍💻 Author
 
 **Khadergouse Savanur**  
