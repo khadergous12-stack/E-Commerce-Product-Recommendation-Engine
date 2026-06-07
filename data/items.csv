@@ -1,0 +1,101 @@
+item_id,title,category,brand,price,rating,tags
+P0001,Samsung Laptop,Electronics,Samsung,37102.37,3.1,electronics laptop samsung
+P0002,OnePlus Tablet,Electronics,OnePlus,5213.51,4.4,electronics tablet oneplus
+P0003,Samsung Mouse,Electronics,Samsung,29564.58,2.6,electronics mouse samsung
+P0004,Apple Laptop,Electronics,Apple,11708.78,4.0,electronics laptop apple
+P0005,Apple Mouse,Electronics,Apple,35828.38,4.3,electronics mouse apple
+P0006,Apple Monitor,Electronics,Apple,22514.53,3.2,electronics monitor apple
+P0007,Apple Smartphone,Electronics,Apple,34936.16,3.4,electronics smartphone apple
+P0008,Apple Tablet,Electronics,Apple,47863.93,3.3,electronics tablet apple
+P0009,Boat Laptop,Electronics,Boat,4925.15,4.6,electronics laptop boat
+P0010,Sony Speaker,Electronics,Sony,40374.7,4.3,electronics speaker sony
+P0011,Samsung Mouse,Electronics,Samsung,48657.48,3.4,electronics mouse samsung
+P0012,Sony Mouse,Electronics,Sony,41486.29,4.0,electronics mouse sony
+P0013,Realme Camera,Electronics,Realme,9694.2,2.7,electronics camera realme
+P0014,Sony Earbuds,Electronics,Sony,49261.55,4.6,electronics earbuds sony
+P0015,Boat Laptop,Electronics,Boat,13969.88,4.1,electronics laptop boat
+P0016,Apple Camera,Electronics,Apple,18571.03,3.0,electronics camera apple
+P0017,OnePlus Smartwatch,Electronics,OnePlus,46838.06,4.1,electronics smartwatch oneplus
+P0018,OnePlus Speaker,Electronics,OnePlus,8638.82,4.3,electronics speaker oneplus
+P0019,Boat Tablet,Electronics,Boat,19033.83,5.0,electronics tablet boat
+P0020,Apple Mouse,Electronics,Apple,34261.25,4.6,electronics mouse apple
+P0021,H&M T-Shirt,Clothing,H&M,41106.95,4.5,clothing t-shirt h&m
+P0022,Nike Hoodie,Clothing,Nike,3401.81,4.8,clothing hoodie nike
+P0023,UCB Sandals,Clothing,UCB,15801.43,4.1,clothing sandals ucb
+P0024,UCB Hoodie,Clothing,UCB,22995.71,3.2,clothing hoodie ucb
+P0025,UCB Jacket,Clothing,UCB,28111.27,3.2,clothing jacket ucb
+P0026,Adidas Sandals,Clothing,Adidas,44900.36,3.5,clothing sandals adidas
+P0027,H&M Jacket,Clothing,H&M,25524.36,2.7,clothing jacket h&m
+P0028,Zara T-Shirt,Clothing,Zara,7725.78,2.9,clothing t-shirt zara
+P0029,Fabindia Hoodie,Clothing,Fabindia,3269.03,3.5,clothing hoodie fabindia
+P0030,Fabindia Formal Shirt,Clothing,Fabindia,12644.56,3.9,clothing formal shirt fabindia
+P0031,UCB T-Shirt,Clothing,UCB,36063.02,4.2,clothing t-shirt ucb
+P0032,Nike Shorts,Clothing,Nike,38452.08,3.4,clothing shorts nike
+P0033,Adidas Kurta,Clothing,Adidas,7991.07,2.5,clothing kurta adidas
+P0034,Fabindia Kurta,Clothing,Fabindia,38120.91,3.8,clothing kurta fabindia
+P0035,UCB Jeans,Clothing,UCB,14991.4,4.1,clothing jeans ucb
+P0036,H&M Sandals,Clothing,H&M,7725.68,4.4,clothing sandals h&m
+P0037,Fabindia Shorts,Clothing,Fabindia,45931.83,4.0,clothing shorts fabindia
+P0038,Zara Formal Shirt,Clothing,Zara,5681.2,3.4,clothing formal shirt zara
+P0039,H&M Kurta,Clothing,H&M,2989.47,4.7,clothing kurta h&m
+P0040,Zara Jeans,Clothing,Zara,36621.19,4.5,clothing jeans zara
+P0041,Pearson Operating Systems,Books,Pearson,6505.73,3.7,books operating systems pearson
+P0042,Pearson Operating Systems,Books,Pearson,13325.33,4.7,books operating systems pearson
+P0043,Pearson The Pragmatic Programmer,Books,Pearson,46451.78,4.4,books the pragmatic programmer pearson
+P0044,Manning System Design,Books,Manning,15653.64,5.0,books system design manning
+P0045,Wiley Deep Learning,Books,Wiley,44989.74,3.6,books deep learning wiley
+P0046,Pearson System Design,Books,Pearson,3293.89,2.6,books system design pearson
+P0047,Pearson Operating Systems,Books,Pearson,29462.16,2.5,books operating systems pearson
+P0048,Pearson Python Programming,Books,Pearson,3462.28,2.6,books python programming pearson
+P0049,O'Reilly Deep Learning,Books,O'Reilly,25755.39,3.2,books deep learning o'reilly
+P0050,Pearson DBMS Fundamentals,Books,Pearson,27006.77,4.3,books dbms fundamentals pearson
+P0051,Apress Computer Networks,Books,Apress,23685.28,4.5,books computer networks apress
+P0052,Pearson The Pragmatic Programmer,Books,Pearson,4805.86,4.1,books the pragmatic programmer pearson
+P0053,Wiley Deep Learning,Books,Wiley,20613.0,4.7,books deep learning wiley
+P0054,Manning Python Programming,Books,Manning,32706.43,4.1,books python programming manning
+P0055,Wiley Python Programming,Books,Wiley,36436.86,4.5,books python programming wiley
+P0056,Pearson Data Structures,Books,Pearson,9659.34,3.8,books data structures pearson
+P0057,Wiley Clean Code,Books,Wiley,9255.05,3.7,books clean code wiley
+P0058,Wiley Data Structures,Books,Wiley,40419.31,4.6,books data structures wiley
+P0059,O'Reilly Data Structures,Books,O'Reilly,32641.03,3.9,books data structures o'reilly
+P0060,O'Reilly Python Programming,Books,O'Reilly,46324.71,4.6,books python programming o'reilly
+P0061,Milton LED Bulb,Home,Milton,24332.49,3.0,home led bulb milton
+P0062,Prestige Pillow,Home,Prestige,8314.39,2.5,home pillow prestige
+P0063,Havells Pillow,Home,Havells,46332.25,4.5,home pillow havells
+P0064,Milton Pressure Cooker,Home,Milton,34858.92,4.3,home pressure cooker milton
+P0065,IKEA Table Lamp,Home,IKEA,35947.57,2.9,home table lamp ikea
+P0066,Philips Pressure Cooker,Home,Philips,48437.6,3.9,home pressure cooker philips
+P0067,Prestige Table Lamp,Home,Prestige,37422.98,2.6,home table lamp prestige
+P0068,Milton Wall Clock,Home,Milton,25191.23,4.6,home wall clock milton
+P0069,Prestige LED Bulb,Home,Prestige,48041.87,2.7,home led bulb prestige
+P0070,Prestige LED Bulb,Home,Prestige,29791.25,4.2,home led bulb prestige
+P0071,Milton Water Bottle,Home,Milton,6081.34,4.7,home water bottle milton
+P0072,Nilkamal Water Bottle,Home,Nilkamal,29765.51,4.0,home water bottle nilkamal
+P0073,IKEA Pillow,Home,IKEA,29224.25,3.8,home pillow ikea
+P0074,Philips Pressure Cooker,Home,Philips,33518.33,3.3,home pressure cooker philips
+P0075,Milton Pressure Cooker,Home,Milton,6629.83,4.1,home pressure cooker milton
+P0076,Havells Bedsheet,Home,Havells,46457.01,4.8,home bedsheet havells
+P0077,Milton Mixer Grinder,Home,Milton,31094.85,3.9,home mixer grinder milton
+P0078,Prestige Air Purifier,Home,Prestige,26926.96,3.8,home air purifier prestige
+P0079,Havells LED Bulb,Home,Havells,44054.12,4.7,home led bulb havells
+P0080,Havells Curtains,Home,Havells,7970.57,4.6,home curtains havells
+P0081,Yonex Running Shoes,Sports,Yonex,49193.28,4.5,sports running shoes yonex
+P0082,Cosco Jump Rope,Sports,Cosco,33425.37,3.9,sports jump rope cosco
+P0083,Nivia Football,Sports,Nivia,13295.85,4.7,sports football nivia
+P0084,Nivia Jump Rope,Sports,Nivia,13689.18,4.0,sports jump rope nivia
+P0085,Nivia Badminton Racket,Sports,Nivia,34405.11,4.6,sports badminton racket nivia
+P0086,Adidas Jump Rope,Sports,Adidas,12629.95,4.8,sports jump rope adidas
+P0087,Cosco Cricket Bat,Sports,Cosco,31749.79,4.6,sports cricket bat cosco
+P0088,Cosco Cricket Bat,Sports,Cosco,16743.47,2.8,sports cricket bat cosco
+P0089,Nivia Running Shoes,Sports,Nivia,37086.42,3.9,sports running shoes nivia
+P0090,Yonex Cycle Helmet,Sports,Yonex,581.52,2.7,sports cycle helmet yonex
+P0091,Yonex Yoga Mat,Sports,Yonex,1896.8,3.4,sports yoga mat yonex
+P0092,Nivia Jump Rope,Sports,Nivia,21545.36,2.6,sports jump rope nivia
+P0093,Cosco Badminton Racket,Sports,Cosco,44955.34,3.0,sports badminton racket cosco
+P0094,Boldfit Dumbbell,Sports,Boldfit,5228.4,4.5,sports dumbbell boldfit
+P0095,Yonex Cycle Helmet,Sports,Yonex,37497.93,4.8,sports cycle helmet yonex
+P0096,Nivia Dumbbell,Sports,Nivia,48811.68,4.5,sports dumbbell nivia
+P0097,Cosco Cycle Helmet,Sports,Cosco,9049.1,4.8,sports cycle helmet cosco
+P0098,Boldfit Cycle Helmet,Sports,Boldfit,43215.8,4.5,sports cycle helmet boldfit
+P0099,Nivia Running Shoes,Sports,Nivia,39388.99,2.8,sports running shoes nivia
+P0100,Adidas Cricket Bat,Sports,Adidas,11198.44,4.5,sports cricket bat adidas

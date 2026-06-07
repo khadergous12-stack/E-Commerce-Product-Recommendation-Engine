@@ -1,0 +1,10 @@
+# E-Commerce Product Recommendation Engine
+# Python Standard Library only — no external dependencies required.
+#
+# Optional extras for future extensions:
+# pandas>=2.0
+# scikit-learn>=1.4
+# lightgbm>=4.3
+# faiss-cpu>=1.8
+# fastapi>=0.110
+# uvicorn>=0.29
